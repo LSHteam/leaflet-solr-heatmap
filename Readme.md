@@ -1,6 +1,6 @@
 # Leaflet-Solr-Heatmap
 
-A Leaflet plugin that supports spatial exploration and visualizes heatmap facets from Solr 5.x
+A Leaflet plugin that supports spatial exploration and visualizes heatmap facets from Solr.
 
 ## Demo 
 

@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://www.ShawneeOK.org/YouTown/FireRuns.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">www.ShawneeOK.org</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">City of Shawnee Fire Runs Last 24 Hours</field>
+  <field name="LayerDisplayNameSort">City of Shawnee Fire Runs Last 24 Hours</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://www.ShawneeOK.org/YouTown/FireRuns.kml'}</field>
+  <field name="MaxY">35.436396</field>
+  <field name="MinY">35.292672</field>
+  <field name="MinX">-97.044359</field>
+  <field name="MaxX">-96.896361</field>
+  <field name="CenterX">-96.97036</field>
+  <field name="CenterY">35.364534000000006</field>
+  <field name="HalfWidth">0.07399900000000059</field>
+  <field name="HalfHeight">0.07186199999999943</field>
+  <field name="Area">0.021270864552</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-97.044359,-96.896361,35.436396,35.292672)</field>
+</doc>
+
+</add>

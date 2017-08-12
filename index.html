@@ -15,29 +15,27 @@
     <div id='solrInfo'>
       <h2 style="text-align:center">Solr Spatial Explorer!</h2>
       <div style="margin-left: 50px">
-      Solr URL: <input type='text' id='solrUrl' size='80' value='https://labs.jstor.org/api/solr/geospatial'/>
-      <br/><br/>
-      Render Style: <select id='renderType'>
+      Solr URL: <input type='text' id='solrUrl' size='80' value='http://localhost:8983/solr/geotest'/>
+
+      &nbsp&nbsp&nbsp&nbsp&nbsp Render Style: <select id='renderType'>
 	<option>geojsonGrid</option>
 	<option>clusters</option>
 	<option selected='selected'>heatmap</option>
 	</select>
       <br/><br/>
       Color Map: <input type='text'id='colorMap' size='80' value="#000000,#0000df,#00effe,#00ff42,#feec30,#ff5f00,#ff0000"/>
-      <br/>
-      RPT Field: <input type='text' id='rptField' value='bbox_srpt'/>
+      &nbsp&nbsp&nbsp&nbsp&nbsp RPT Field: <input type='text' id='rptField' value='bbox_rpt'/>
       <br/><br/>
-      Nearby Field: <input type='text' id='nearbyField' value=''/>  Type: <select id='nearbyFieldType'>
+      Nearby Field: <input type='text' id='nearbyField' value='bbox_rpt'/>  Type: <select id='nearbyFieldType'>
 	<option selected='selected'>RPT</option><option>BBox</option></select>
       <br/><br/>
-      Popup Fields: <input type='text' id='popupDisplayField' value='geocodedOccurancesCount_i,doi,title,geocodedLocation_s'/>
-      <br/><br/>
-      Popup Sort Field: <input type='text' id='sortField' value='geocodedOccurancesCount_i'/>
+      Popup Fields: <input type='text' id='popupDisplayField' value='LayerDisplayName'/>
+      &nbsp&nbsp&nbsp&nbsp&nbsp Popup Sort Field: <input type='text' id='sortField' value='LayerDisplayName'/>
       <br/><br/>
       Show Global Results: <input type='checkbox' id='showGlobalResults'/>
+      &nbsp&nbsp&nbsp&nbsp&nbsp    <a href='https://github.com/spacemansteve/leaflet-solr-heatmap/wiki/Configuration-Documentation'>Documentation For Fields</a>
       <br/><br/>
-      <button onclick='resetSolr()'>Reset</button>&nbsp&nbsp&nbsp&nbsp&nbsp    <a href='https://github.com/spacemansteve/leaflet-solr-heatmap/wiki/Configuration-Documentation'>Documentation For Fields</a>
-
+      <button onclick='resetSolr()'>Reset</button>
       <br/>
       <br/>
       <br/>

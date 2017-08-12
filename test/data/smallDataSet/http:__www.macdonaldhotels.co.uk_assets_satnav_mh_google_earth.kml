@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://www.macdonaldhotels.co.uk/assets/satnav/mh_google_earth.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">www.macdonaldhotels.co.uk</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">Macdonald Bear Hotel</field>
+  <field name="LayerDisplayNameSort">Macdonald Bear Hotel</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://www.macdonaldhotels.co.uk/assets/satnav/mh_google_earth.kml'}</field>
+  <field name="MaxY">57.4575049</field>
+  <field name="MinY">50.7584318</field>
+  <field name="MinX">-4.4899997</field>
+  <field name="MaxX">0.883806499999992</field>
+  <field name="CenterX">-1.8030966000000042</field>
+  <field name="CenterY">54.10796835</field>
+  <field name="HalfWidth">2.686903099999996</field>
+  <field name="HalfHeight">3.3495365500000034</field>
+  <field name="Area">35.9995205590332</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-4.4899997,0.883806499999992,57.4575049,50.7584318)</field>
+</doc>
+
+</add>

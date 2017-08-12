@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://alibi.com/blog/s/news/w3049/The-Daily-Word-in-Snowden-apple-juice-fire-restr.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">alibi.com</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">The Daily Word in Snowden, apple juice, fire restrictions</field>
+  <field name="LayerDisplayNameSort">The Daily Word in Snowden, apple juice, fire restrictions</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://alibi.com/blog/s/news/w3049/The-Daily-Word-in-Snowden-apple-juice-fire-restr.kml'}</field>
+  <field name="MaxY">35.28465195000172</field>
+  <field name="MinY">34.88465194404125</field>
+  <field name="MinX">-106.85177154839039</field>
+  <field name="MaxX">-106.45177154242992</field>
+  <field name="CenterX">-106.65177154541016</field>
+  <field name="CenterY">35.084651947021484</field>
+  <field name="HalfWidth">0.20000000298023224</field>
+  <field name="HalfHeight">0.20000000298023224</field>
+  <field name="Area">0.16000000476837162</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-106.85177154839039,-106.45177154242992,35.28465195000172,34.88465194404125)</field>
+</doc>
+
+</add>

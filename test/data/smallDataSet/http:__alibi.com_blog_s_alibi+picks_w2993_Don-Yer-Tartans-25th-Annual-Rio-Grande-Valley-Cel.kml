@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://alibi.com/blog/s/alibi+picks/w2993/Don-Yer-Tartans-25th-Annual-Rio-Grande-Valley-Cel.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">alibi.com</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">Don Yer Tartans: 25th Annual Rio Grande Valley Celtic Festival</field>
+  <field name="LayerDisplayNameSort">Don Yer Tartans: 25th Annual Rio Grande Valley Celtic Festival</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://alibi.com/blog/s/alibi+picks/w2993/Don-Yer-Tartans-25th-Annual-Rio-Grande-Valley-Cel.kml'}</field>
+  <field name="MaxY">35.39889068901539</field>
+  <field name="MinY">34.998890683054924</field>
+  <field name="MinX">-106.78718872368336</field>
+  <field name="MaxX">-106.38718871772289</field>
+  <field name="CenterX">-106.58718872070312</field>
+  <field name="CenterY">35.198890686035156</field>
+  <field name="HalfWidth">0.20000000298023224</field>
+  <field name="HalfHeight">0.20000000298023224</field>
+  <field name="Area">0.16000000476837162</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-106.78718872368336,-106.38718871772289,35.39889068901539,34.998890683054924)</field>
+</doc>
+
+</add>

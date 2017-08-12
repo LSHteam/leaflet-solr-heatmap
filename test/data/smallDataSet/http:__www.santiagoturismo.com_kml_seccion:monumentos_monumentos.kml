@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://www.santiagoturismo.com/kml/seccion:monumentos/monumentos.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">www.santiagoturismo.com</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">Monumentos</field>
+  <field name="LayerDisplayNameSort">Monumentos</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://www.santiagoturismo.com/kml/seccion:monumentos/monumentos.kml'}</field>
+  <field name="MaxY">42.99473686</field>
+  <field name="MinY">42.618518</field>
+  <field name="MinX">-8.730569</field>
+  <field name="MaxX">-7.96592205</field>
+  <field name="CenterX">-8.348245525</field>
+  <field name="CenterY">42.806627430000006</field>
+  <field name="HalfWidth">0.38232347499999975</field>
+  <field name="HalfHeight">0.1881094300000008</field>
+  <field name="Area">0.287674603831478</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-8.730569,-7.96592205,42.99473686,42.618518)</field>
+</doc>
+
+</add>

@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://alibi.com/blog/s/alibi+picks/w3043/Cowboy-Up-Western-Day-at-Old-Town-Plaza.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">alibi.com</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">Cowboy Up: Western Day at Old Town Plaza</field>
+  <field name="LayerDisplayNameSort">Cowboy Up: Western Day at Old Town Plaza</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://alibi.com/blog/s/alibi+picks/w3043/Cowboy-Up-Western-Day-at-Old-Town-Plaza.kml'}</field>
+  <field name="MaxY">35.29591293632984</field>
+  <field name="MinY">34.89591293036938</field>
+  <field name="MinX">-106.87036438286304</field>
+  <field name="MaxX">-106.47036437690258</field>
+  <field name="CenterX">-106.67036437988281</field>
+  <field name="CenterY">35.09591293334961</field>
+  <field name="HalfWidth">0.20000000298023224</field>
+  <field name="HalfHeight">0.20000000298023224</field>
+  <field name="Area">0.16000000476837162</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-106.87036438286304,-106.47036437690258,35.29591293632984,34.89591293036938)</field>
+</doc>
+
+</add>

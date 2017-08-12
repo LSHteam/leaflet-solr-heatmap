@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/opendata/idahobirdingtrail.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">fishandgame.idaho.gov</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">Idaho Birding Trail</field>
+  <field name="LayerDisplayNameSort">Idaho Birding Trail</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'https://fishandgame.idaho.gov/ifwis/portal/sites/ifwis/files/opendata/idahobirdingtrail.kml'}</field>
+  <field name="MaxY">49.12870599999999</field>
+  <field name="MinY">42.085601</field>
+  <field name="MinX">-117.049003</field>
+  <field name="MaxX">-110.955001</field>
+  <field name="CenterX">-114.002002</field>
+  <field name="CenterY">45.607153499999995</field>
+  <field name="HalfWidth">3.0470010000000016</field>
+  <field name="HalfHeight">3.521552499999995</field>
+  <field name="Area">42.92069595620996</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-117.049003,-110.955001,49.12870599999999,42.085601)</field>
+</doc>
+
+</add>

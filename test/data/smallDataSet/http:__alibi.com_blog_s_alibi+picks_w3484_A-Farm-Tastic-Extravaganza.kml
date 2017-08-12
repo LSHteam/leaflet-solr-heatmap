@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://alibi.com/blog/s/alibi+picks/w3484/A-Farm-Tastic-Extravaganza.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">alibi.com</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">A Farm-Tastic Extravaganza</field>
+  <field name="LayerDisplayNameSort">A Farm-Tastic Extravaganza</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://alibi.com/blog/s/alibi+picks/w3484/A-Farm-Tastic-Extravaganza.kml'}</field>
+  <field name="MaxY">35.271678164601326</field>
+  <field name="MinY">34.87167815864086</field>
+  <field name="MinX">-106.40249176323414</field>
+  <field name="MaxX">-106.00249175727367</field>
+  <field name="CenterX">-106.2024917602539</field>
+  <field name="CenterY">35.071678161621094</field>
+  <field name="HalfWidth">0.20000000298023224</field>
+  <field name="HalfHeight">0.20000000298023224</field>
+  <field name="Area">0.16000000476837162</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-106.40249176323414,-106.00249175727367,35.271678164601326,34.87167815864086)</field>
+</doc>
+
+</add>

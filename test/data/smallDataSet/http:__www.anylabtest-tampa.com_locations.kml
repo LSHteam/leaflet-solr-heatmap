@@ -1,0 +1,40 @@
+<add allowDups="false">
+
+<doc>
+  <field name="LayerId">http://www.anylabtest-tampa.com/locations.kml</field>
+  <field name="Name"></field>
+  <field name="CollectionId">initial collection</field>
+  <field name="Institution">www.anylabtest-tampa.com</field>
+  <field name="InstitutionSort">www</field>
+  <field name="Access">Public</field>
+  <field name="DataType">Raster</field>
+  <field name="DataTypeSort">Raster</field>
+  <field name="Availability">Online</field>
+  <field name="LayerDisplayName">Jack Hopman</field>
+  <field name="LayerDisplayNameSort">Jack Hopman</field>
+  <field name="Publisher"></field>
+  <field name="PublisherSort"></field>
+  <field name="Originator"></field>
+  <field name="OriginatorSort"></field>
+  <field name="ThemeKeywords"></field>
+  <field name="PlaceKeywords"></field>
+  <field name="GeoReferenced">true</field>
+  <field name="Abstract"></field>
+  <field name="Location">{kml:'http://www.anylabtest-tampa.com/locations.kml'}</field>
+  <field name="MaxY">28.14515610039234</field>
+  <field name="MinY">27.745156094431877</field>
+  <field name="MinX">-82.70925445854664</field>
+  <field name="MaxX">-82.30925445258617</field>
+  <field name="CenterX">-82.5092544555664</field>
+  <field name="CenterY">27.94515609741211</field>
+  <field name="HalfWidth">0.20000000298023224</field>
+  <field name="HalfHeight">0.20000000298023224</field>
+  <field name="Area">0.16000000476837162</field>
+  <field name="SrsProjectionCode">2249</field>
+  <field name="WorkspaceName">www</field>
+  <field name="ContentDate"> </field>
+  <field name="FgdcText">null</field>
+  <field name="bbox_rpt">ENVELOPE(-82.70925445854664,-82.30925445258617,28.14515610039234,27.745156094431877)</field>
+</doc>
+
+</add>
